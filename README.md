@@ -105,7 +105,11 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-- OpenAI for GPT-4
-- CoinGecko for crypto data
-- MetaMask for wallet integration
-- ESP32 community for IoT support 
+* [OpenAI](https://openai.com/) - For GPT-4 API and AI capabilities
+* [FastAPI](https://fastapi.tiangolo.com/) - For the high-performance web framework
+* [SQLAlchemy](https://www.sqlalchemy.org/) - For the powerful SQL toolkit and ORM
+* [LangChain](https://langchain.com/) - For AI/LLM application framework
+* The open-source community for various tools and libraries used in this project
+* CoinGecko for crypto data
+* MetaMask for wallet integration
+* ESP32 community for IoT support 
