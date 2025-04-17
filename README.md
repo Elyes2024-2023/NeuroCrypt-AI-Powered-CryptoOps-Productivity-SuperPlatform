@@ -51,8 +51,8 @@ neurocrypt/
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/neurocrypt.git
-cd neurocrypt
+git clone https://github.com/Elyes2024-2023/NeuroCrypt-AI-Powered-CryptoOps-Productivity-SuperPlatform.git
+cd NeuroCrypt-AI-Powered-CryptoOps-Productivity-SuperPlatform
 ```
 
 2. Set up Python environment
