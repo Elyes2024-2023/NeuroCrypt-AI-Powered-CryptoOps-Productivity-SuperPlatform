@@ -1,5 +1,8 @@
 # NeuroCrypt: AI-Powered CryptoOps & Productivity SuperPlatform
 
+## Author
+ELYES (2024-2025)
+
 ## Overview
 NeuroCrypt is a modular, AI-driven super app that combines crypto operations, productivity tools, IoT monitoring, and system security into a unified platform.
 
